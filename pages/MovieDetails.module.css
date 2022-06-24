@@ -1,0 +1,24 @@
+.DetailsContainer {
+    display: flex;
+    background-color: red;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.colDetail {
+    max-width: 400px;
+    margin: 15px;
+    height: auto;
+    height: 80%;
+}
+
+.imgDetail {
+    border-radius: 10px;
+}
+
+.descDetail {
+    font-size: 1.4rem;
+}
+.firstItem {
+    margin-top: 0;
+}
